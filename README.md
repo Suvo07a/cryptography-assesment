@@ -27,7 +27,7 @@ I hashed a personalized sentence, and then changed just one single punctuation m
 *   **Algorithm Used:** SHA-256
 *   **Hash Result:** `280DB8D27789591DA309022C1FC26804E8036D34588D2AAA6D2D459BD1B155D1`
 
-**Observation:** Even though I only changed the final punctuation mark, the resulting hash is completely unrecognizable from the first one. This proves the data was successfully altered and detected.
+**Observation:** Even though I only changed the final punctuation mark, the resulting hash is completely unrecognizable from the first one. This proves the data was successfully altered and detected. I have also attached the screenshots for refrence.
 
 ### 3. Limitations of Hashing
 While hashing is a great security tool, it is important to know what it cannot protect:
