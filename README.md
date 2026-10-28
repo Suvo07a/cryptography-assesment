@@ -2,9 +2,6 @@
 
 **Author:** Shubojeet Mondal
 
-This repository contains my final submissions for the Cybersecurity Assessment. I have completed two tasks: **Task 12** (practical cryptography exploration) and **Task 23** (smart home privacy planning).
-
----
 
 ## Task 12: Explore a Cryptography Concept (SHA-256)
 
